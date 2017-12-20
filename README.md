@@ -1,2 +1,0 @@
-# whitepaper
-Logarithm (LGR) Whitepaper
